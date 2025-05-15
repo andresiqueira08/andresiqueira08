@@ -1,9 +1,9 @@
-## Hi there, I'm André! 
+# 👨‍💻 André Siqueira
 
+**`Desenvolvedor Backend`**
 
-- 🔭 I’m currently working as freelancer
-- 🌱 I’m currently learning everything about cience of computation at college
-- 🔭 I’m at gmail: andresiqueira089@gmail.com
+Me chamo André Siqueira, tenho 19 anos e sou natural de Pernambuco. Concluí o ensino médio no Colégio Cardeal Arcoverde. Atualmente, estou cursando Ciência da Computação UNICAP. Sou apaixonada por tecnologia e estou sempre disposto a aprender coisas novas.
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andre-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
