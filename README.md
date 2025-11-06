@@ -1,6 +1,6 @@
 # 👨‍💻 André Siqueira
 
-**`Desenvolvedor Backend`**
+**`Analista de dados`**
 
 Me chamo André Siqueira, tenho 19 anos e sou natural de Pernambuco. Concluí o ensino médio no Colégio Cardeal Arcoverde. Atualmente, estou cursando Ciência da Computação UNICAP. Sou apaixonada por tecnologia e estou sempre disposto a aprender coisas novas.
 
