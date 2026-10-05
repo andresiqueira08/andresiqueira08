@@ -1,38 +1,97 @@
 # 👨‍💻 André Siqueira
 
-**`Estudante de Ciência da Computação | Dados & Desenvolvimento`**
+### Estudante de Ciência da Computação | Dados & Desenvolvimento
 
-Me chamo André Siqueira, tenho 19 anos e sou natural de Pernambuco. Concluí o ensino médio no Colégio Cardeal Arcoverde. Atualmente, estou cursando Ciência da Computação UNICAP. Sou apaixonada por tecnologia e estou sempre disposto a aprender coisas novas.
+Sou estudante de Ciência da Computação na UNICAP, interessado em
+Análise de Dados, Desenvolvimento Backend e Engenharia de Software.
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Andre-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/andre_.siqueira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andré-siqueira08" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <br/>
-<br/>
+Tenho experiência acadêmica e prática com Python, SQL, Java, C,
+APIs REST, bancos de dados e análise de dados.
 
-### 📊 Estatísticas
+Atualmente estou aprofundando meus conhecimentos em:
+- 📊 Análise de Dados
+- 🐍 Python
+- 🗄️ SQL e Bancos de Dados
+- 📈 Power BI
+- 🔄 ETL e tratamento de dados
+- ⚙️ Desenvolvimento Backend
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=andresiqueira08&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresiqueira08&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 🛠️ Tecnologias
 
-</p>
+### Dados
+- Python
+- Pandas
+- NumPy
+- SQL
+- Power BI
+- Jupyter Notebook
+
+### Backend
+- Python
+- FastAPI
+- PostgreSQL
+- APIs REST
+
+### Desenvolvimento
+- Java
+- C
+- Git
+- GitHub
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🚀 Principais Projetos
+
+### 📊 Análise de Dados de Escolas
+Projeto de análise exploratória de dados educacionais do município
+de Surubim, utilizando Python e ferramentas de análise de dados.
+
+**Tecnologias:** Python, Pandas, Jupyter Notebook
+
+---
+
+### 🚗 AutoCare
+API para gerenciamento de manutenção automotiva, permitindo registrar
+veículos, manutenções e acompanhar lembretes de manutenção.
+
+**Tecnologias:** Python, FastAPI, PostgreSQL, SQLAlchemy
+
+---
+
+### 🛒 Projeto Banco de Dados
+Sistema de e-commerce desenvolvido para praticar modelagem,
+consultas SQL e integração com Python.
+
+**Tecnologias:** SQL, Python, PostgreSQL
+
+---
+
+### 🌳 Árvore Rubro-Negra
+Implementação de uma árvore Red-Black em Java para estudo de
+estruturas de dados e algoritmos.
+
+**Tecnologias:** Java
+
+---
+
+## 📚 Atualmente estudando
+
+- ETL e integração de dados
+- Análise exploratória
+- SQL
+- Power BI
+- Python para Dados
+- APIs REST
+- Engenharia de Software
+
+---
+
+## 📫 Contato
+
+andresiqueira089@gmail.com 
+(87) 9 9117-2411
